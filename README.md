@@ -39,12 +39,10 @@ Basic Java project for managing school data
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
-![Stats](https://github-readme-stats.vercel.app/api?username=mohd-ammar1\&show_icons=true\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=mohd-ammar1&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
-
-(Add LinkedIn here later)
